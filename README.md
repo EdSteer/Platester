@@ -62,8 +62,8 @@ In order to the data for the cards (with help from the team), I wrote some code 
 
 With the courses now up and running it was a case of finding images online and creating the image boxes and cards for the rest of the page.
 
-![front page](https://user-images.githubusercontent.com/91135210/169502487-cf0efb45-ca1f-45a9-bb8e-590f158700ac.png)
-![front page](https://user-images.githubusercontent.com/91135210/169502546-37d1974c-a52e-43ca-b166-8b1ce85baeeb.png)
+![Screenshot 2022-05-20 at 11 05 01](https://user-images.githubusercontent.com/91135210/169505619-cd34ee7e-90ea-4324-aa5b-e963ecf660dc.png)
+
 
 Once the home page had been completed it was onto the footer. Again using Bulma, I simply duplicated the format from Airbnb.
 
