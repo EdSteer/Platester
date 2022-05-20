@@ -5,11 +5,13 @@
 
 Deployed here - [platester](https://platester.herokuapp.com/)
 
+<img width="1413" alt="platester" src="https://user-images.githubusercontent.com/91135210/169505967-7992437c-86e5-44b9-8702-98d3b23ba729.png">
+
 Project Members
 
-[Issra Hashim](https://github.com/IssraHashim)
-[Mariah Gilling](https://github.com/msgilling)
-[Lee Wiseman](https://github.com/leewiseman94)
+- [Issra Hashim](https://github.com/IssraHashim)
+- [Mariah Gilling](https://github.com/msgilling)
+- [Lee Wiseman](https://github.com/leewiseman94)
 
 The third project I completed as part of my SEI course is my first attempt at a full stack app and the first time working in a group. We had 1.5 weeks to complete this project. 
 
